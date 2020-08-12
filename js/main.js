@@ -1,4 +1,5 @@
 $(document).ready(function() {
+	console.log(chat_id);
 	// плавный скрол до анкора
  	const anchors = document.querySelectorAll('a[href*="#"]')
  	anchors.forEach((anchor) => {
