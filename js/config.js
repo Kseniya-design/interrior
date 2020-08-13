@@ -1,5 +1,5 @@
-const chat_id = "12";
-const token = "1";
+const chat_id = "-359421657";
+const token = "1352122243:AAHtQyDorkZ6s02bRdTceRfXaBcSEomYsFs";
 
 
 
